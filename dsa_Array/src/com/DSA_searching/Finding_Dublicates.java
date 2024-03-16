@@ -16,7 +16,7 @@ public class Finding_Dublicates {
 	}
 
 	public static void main(String[] args) {
-		int [] arr = {2,4,6,7,4};
+		int [] arr = {2,4,6,6,7,4};
 		
 		System.out.println("The Array Has Dublicates? : "  + findiDublicates(arr));
 	}
