@@ -15,7 +15,6 @@ public class Min_Max {
 		}
 		System.out.println("The maximum Element is : " + max);
 		System.out.println("The minimum Element is : " + min);
-
 	}
 
 	public static void main(String[] args) {
